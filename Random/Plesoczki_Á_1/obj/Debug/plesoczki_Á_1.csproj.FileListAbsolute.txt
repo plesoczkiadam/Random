@@ -1,0 +1,14 @@
+D:\Users\Ádám\Desktop\Plesoczki_Á_05_18\plesoczki_Á_1\plesoczki_Á_1\obj\Debug\plesoczki_Á_1.csprojAssemblyReference.cache
+D:\Users\Ádám\Desktop\Plesoczki_Á_05_18\plesoczki_Á_1\plesoczki_Á_1\bin\Debug\plesoczki_Á_1.exe.config
+D:\Users\Ádám\Desktop\Plesoczki_Á_05_18\plesoczki_Á_1\plesoczki_Á_1\bin\Debug\plesoczki_Á_1.exe
+D:\Users\Ádám\Desktop\Plesoczki_Á_05_18\plesoczki_Á_1\plesoczki_Á_1\bin\Debug\plesoczki_Á_1.pdb
+D:\Users\Ádám\Desktop\Plesoczki_Á_05_18\plesoczki_Á_1\plesoczki_Á_1\obj\Debug\plesoczki_Á_1.exe
+D:\Users\Ádám\Desktop\Plesoczki_Á_05_18\plesoczki_Á_1\plesoczki_Á_1\obj\Debug\plesoczki_Á_1.pdb
+D:\Távoktatás\Plesoczki_Á_05_18\plesoczki_Á_1\plesoczki_Á_1\bin\Debug\plesoczki_Á_1.exe.config
+D:\Távoktatás\Plesoczki_Á_05_18\plesoczki_Á_1\plesoczki_Á_1\bin\Debug\plesoczki_Á_1.exe
+D:\Távoktatás\Plesoczki_Á_05_18\plesoczki_Á_1\plesoczki_Á_1\bin\Debug\plesoczki_Á_1.pdb
+D:\Távoktatás\Plesoczki_Á_05_18\plesoczki_Á_1\plesoczki_Á_1\obj\Debug\plesoczki_Á_1.csproj.AssemblyReference.cache
+D:\Távoktatás\Plesoczki_Á_05_18\plesoczki_Á_1\plesoczki_Á_1\obj\Debug\plesoczki_Á_1.csproj.SuggestedBindingRedirects.cache
+D:\Távoktatás\Plesoczki_Á_05_18\plesoczki_Á_1\plesoczki_Á_1\obj\Debug\plesoczki_Á_1.csproj.CoreCompileInputs.cache
+D:\Távoktatás\Plesoczki_Á_05_18\plesoczki_Á_1\plesoczki_Á_1\obj\Debug\plesoczki_Á_1.exe
+D:\Távoktatás\Plesoczki_Á_05_18\plesoczki_Á_1\plesoczki_Á_1\obj\Debug\plesoczki_Á_1.pdb
